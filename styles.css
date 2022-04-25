@@ -59,3 +59,8 @@ ul {
     gap: 5px;
     padding: 0px;
 }
+
+img {
+    width: 95%;
+    height: 250px
+}
