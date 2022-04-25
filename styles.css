@@ -5,6 +5,10 @@
 
 }
 
+h1 {
+    font-weight: 700;
+}
+
 body {
     display: flex;
     justify-content: center;
@@ -28,7 +32,7 @@ a {
 }
 
 .header{
-    margin-top: 200px;
+    margin: 30px;
     display: flex;
     justify-content: center;
     align-items: center;
